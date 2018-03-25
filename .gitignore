@@ -57,3 +57,6 @@ typings/
 # dotenv environment variables file
 .env
 
+# 自定义
+data/
+image/
